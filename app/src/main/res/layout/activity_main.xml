@@ -25,19 +25,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/btn1"
-
+            android:onClick="acess"
+            android:id="@+id/b1"
             style="@style/btnsMenu"></Button>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/btn2"
+            android:onClick="acess"
+            android:id="@+id/b2"
             style="@style/btnsMenu"></Button>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/btn3"
+            android:onClick="acess"
+            android:id="@+id/b3"
             style="@style/btnsMenu"></Button>
     </LinearLayout>
 
