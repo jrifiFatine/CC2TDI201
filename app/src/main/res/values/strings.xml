@@ -6,6 +6,13 @@
     <string name="E11">Tapez le Nom de la societe </string>
     <string name="E2">Tapez le Secteur d activite</string>
     <string name="E3">Tapez le nombre d employe</string>
+    <string name="e1Edit">Tapez le Nom de la societe</string>
+    <string name="e2Edit">Tapez le Secteur d activite</string>
+    <string name="e3Edit">Tapez le nombre d employe</string>
+    <string name="btnModif">Modifier</string>
+    <string name="btnsupp">Supprimer</string>
+
+
 
 
 </resources>
