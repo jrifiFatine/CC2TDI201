@@ -3,5 +3,9 @@
     <string name="btn1">Ajouter Une Societe</string>
     <string name="btn2">Editer Une Societe</string>
     <string name="btn3">Lister de tous les Societes</string>
+    <string name="E11">Tapez le Nom de la societe </string>
+    <string name="E2">Tapez le Secteur d activite</string>
+    <string name="E3">Tapez le nombre d employe</string>
+
 
 </resources>
